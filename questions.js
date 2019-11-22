@@ -108,5 +108,5 @@ let hypothenuse =  (ab, ac) => {
 }
 let calculIMC =  (poids, taille) => {
 
-        return Number((poids / taille**2).toFixed(2));
+        return Number((poids / taille**2).toFixed(2)); // number is used 
 }
